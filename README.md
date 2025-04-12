@@ -3,7 +3,7 @@
 Welcome to my CCNA preps Lab repository! This repository is dedicated to CCNA lab exercises. It contains practical scenarios, configurations, and network setups to help reinforce CCNA concepts through hands-on practice.
 
 ## Contents
-- **Lab Exercises**: Hands-on Packet Tracer and GNS3/EVE-NG files for CCNA labs.
+- **Lab Exercises**: Hands-on Packet Tracer for CCNA labs.
 - **Network Topologies**: Diagrams and configurations for various lab scenarios.
 - **Command References**: Frequently used Cisco CLI commands within labs.
 
